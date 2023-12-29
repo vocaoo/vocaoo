@@ -3,6 +3,7 @@
 
 ---
 
-# <div style="text-align: center;"> ![](https://media1.tenor.com/m/K-oHBQJW88kAAAAd/anime-rapid-eye-movement.gif)</div>
+# <p align="center"> ![](https://media1.tenor.com/m/K-oHBQJW88kAAAAd/anime-rapid-eye-movement.gif)</p>
 
 ---
+
